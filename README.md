@@ -11,7 +11,7 @@ Iterate through each element in list. Use a hash table to store difference betwe
   * Memory Usage: 9.4 MB, less than 76.56% of C++ submissions.
 * **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/twoSum.py)**
   * Runtime: 48 ms, faster than 72.41% of Python submissions.
-  * Memory Usage: 14.5 MB, less than 75.5% of Python submissions
+  * Memory Usage: 14.5 MB, less than 75.5% of Python submissions.
 
 ## Container With Most Water
 Use a pointer to the left of the list and the right of the list. Use the smaller of the two heights and the difference in the left and right pointer's indices to calculate the area. Keep value for area if it's larger than the previous largest. Iterate the pointer that has a smaller height at each step; reducing the width with the same height will exclusively produce smaller areas, so we don't want to keep that height for future consideration.
@@ -20,4 +20,10 @@ Use a pointer to the left of the list and the right of the list. Use the smaller
   * Memory Usage: 18 MB, less than 93.7% of C++ submissions.
 * **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/containerWithMostWater.py)**
   * Runtime: 156 ms, faster than 91.07% of Python submissions.
-  * Memory Usage: 16.5 MB, less than 36.33% of Python submissions
+  * Memory Usage: 16.5 MB, less than 36.33% of Python submissions.
+
+## Minimum Number of Steps to Make Two Strings Anagram
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/minStepsToMakeAnagram.cpp)**
+  * Runtime: 252 ms, faster than 41.93% of Python submissions.
+  * Memory Usage: 14.8 MB, less than 72.24% of Python submissions.
+  * used Counter() from the Collections library to count instances of characters in the string. Then iterating through the Counter object containing the two strings' difference allowed me to find the steps needed to make the second string an anagram.
