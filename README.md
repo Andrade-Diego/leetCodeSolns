@@ -24,6 +24,7 @@ Use a pointer to the left of the list and the right of the list. Use the smaller
 
 ## Minimum Number of Steps to Make Two Strings Anagram
 * **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/minStepsToMakeAnagram.cpp)**
+Used Counter() from the Collections library to count instances of characters in the string. Then iterating through the Counter object containing the two strings' difference allowed me to find the steps needed to make the second string an anagram.
   * Runtime: 252 ms, faster than 41.93% of Python submissions.
   * Memory Usage: 14.8 MB, less than 72.24% of Python submissions.
-  * used Counter() from the Collections library to count instances of characters in the string. Then iterating through the Counter object containing the two strings' difference allowed me to find the steps needed to make the second string an anagram.
+
