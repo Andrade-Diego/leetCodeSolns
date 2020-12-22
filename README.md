@@ -34,3 +34,8 @@ Recursive solution using preorder tree traversal
   * Runtime: 60 ms, faster than 94.37% of Python submissions.
   * Memory Usage: 15 MB, less than 14.74% of Python submissions.
 
+## Median of Two Sorted Arrays
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/FindMediansSortedArrays.py)**
+Used a pointer for each list, the smaller value goes into the new "merge" list. In order to achieve **O(log(n+m))** time, the entirety of each list is not used, only the first half + 1 of the total number of values needs to be used. 
+  * Runtime: 88 ms, faster than 79.72% of Python submissions.
+  * Memory Usage: 14.4 MB, less than 62.34% of Python submissions.
