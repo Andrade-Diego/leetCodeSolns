@@ -23,8 +23,14 @@ Use a pointer to the left of the list and the right of the list. Use the smaller
   * Memory Usage: 16.5 MB, less than 36.33% of Python submissions.
 
 ## Minimum Number of Steps to Make Two Strings Anagram
-* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/minStepsToMakeAnagram.cpp)**
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/minStepsToMakeAnagram.py)**
 Used Counter() from the Collections library to count instances of characters in the string. Then iterating through the Counter object containing the two strings' difference allowed me to find the steps needed to make the second string an anagram.
   * Runtime: 252 ms, faster than 41.93% of Python submissions.
   * Memory Usage: 14.8 MB, less than 72.24% of Python submissions.
+
+## Delete Nodes and Return Forest
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/DelNodesGetForest.py)**
+Recursive solution using preorder tree traversal
+  * Runtime: 60 ms, faster than 94.37% of Python submissions.
+  * Memory Usage: 15 MB, less than 14.74% of Python submissions.
 
