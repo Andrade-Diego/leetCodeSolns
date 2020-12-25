@@ -39,3 +39,9 @@ Recursive solution using preorder tree traversal
 Used a pointer for each list, the smaller value goes into the new "merge" list. In order to achieve **O(log(n+m))** time, the entirety of each list is not used, only the first half + 1 of the total number of values needs to be used. 
   * Runtime: 88 ms, faster than 79.72% of Python submissions.
   * Memory Usage: 14.4 MB, less than 62.34% of Python submissions.
+
+## Distribute Candies to People
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/distributeCandies.py)**
+Used numpy for a mathy solution. Using the property that the sum of all natural numbers up to n is equal to \\[n(n+1)/2\\], to help find the answer.
+  * Runtime: 91 ms, faster than 5.42% of Python submissions.
+  * Memory Usage: 31.6 MB, less than 13.86% of Python submissions.
