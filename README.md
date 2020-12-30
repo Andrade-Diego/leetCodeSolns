@@ -45,3 +45,9 @@ Used a pointer for each list, the smaller value goes into the new "merge" list. 
 Used numpy for a mathy solution. Using the property that the sum of all natural numbers up to n is equal to \\[n(n+1)/2\\], to help find the answer.
   * Runtime: 91 ms, faster than 5.42% of Python submissions.
   * Memory Usage: 31.6 MB, less than 13.86% of Python submissions.
+
+## Valid Parentheses
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/validParentheses.py)**
+Use a stack to keep track of the most recently opened parentheses type, when the program comes across a close parentheses of the right type, it pops it off the stack. If the stack is empty at the end of the string, it is a valid string.
+  * Runtime: 28 ms, faster than 82.64% of Python submissions.
+  * Memory Usage: 14.1 MB, less than 94.19% of Python submissions.
