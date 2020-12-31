@@ -51,3 +51,9 @@ Used numpy for a mathy solution. Using the property that the sum of all natural 
 Use a stack to keep track of the most recently opened parentheses type, when the program comes across a close parentheses of the right type, it pops it off the stack. If the stack is empty at the end of the string, it is a valid string.
   * Runtime: 28 ms, faster than 82.64% of Python submissions.
   * Memory Usage: 14.1 MB, less than 94.19% of Python submissions.
+
+## Remove Duplicates From Sorted Array
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/removeDuplicates.py)**
+A fast pointer and a slow pointer are used to iterate through the list, the slow pointer stops at the first instance of each number, the fast pointer traces through the whole array and removes the element at its index if it is the same as the element at the slow pointer
+  * Runtime: 96 ms, faster than 31.36% of Python submissions.
+  * Memory Usage: 15.8 MB, less than 71.87% of Python submissions.
