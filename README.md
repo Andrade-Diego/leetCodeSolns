@@ -57,3 +57,9 @@ Use a stack to keep track of the most recently opened parentheses type, when the
 A fast pointer and a slow pointer are used to iterate through the list, the slow pointer stops at the first instance of each number, the fast pointer traces through the whole array and removes the element at its index if it is the same as the element at the slow pointer
   * Runtime: 96 ms, faster than 31.36% of Python submissions.
   * Memory Usage: 15.8 MB, less than 71.87% of Python submissions.
+
+## Validate Binary Search Tree
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/validateBST.py)**
+Use DFS and recursion to iterate through tree, keep track of the lowerLimit and upperLimit for what a node value can contain.
+  * Runtime: 36 ms, faster than 96.93% of Python submissions.
+  * Memory Usage: 16.3 MB, less than 85.93% of Python submissions.
