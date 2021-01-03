@@ -4,6 +4,7 @@ Language | Version
 ------------ | -------------
 C++ | C++14
 Python | Python3
+JavaScipt | Node.js v15.3.0
 ## twoSum
 Iterate through each element in list. Use a hash table to store difference between the current number and the target and map it to the current index. If an observed value is in the hash table, use the index of that observed value and the index it's mapped to in the table to generate the result.
 * **[C++](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/twoSum.cpp)**
@@ -63,3 +64,9 @@ A fast pointer and a slow pointer are used to iterate through the list, the slow
 Use DFS and recursion to iterate through tree, keep track of the lowerLimit and upperLimit for what a node value can contain.
   * Runtime: 36 ms, faster than 96.93% of Python submissions.
   * Memory Usage: 16.3 MB, less than 85.93% of Python submissions.
+
+## Search a 2D Matrix II
+* **[JavaScript](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/searchMatrix.js)**
+Use binary search to check each row for the target. Runtime then is O(m*logn)
+  * Runtime: 2920 ms, faster than 13.9% of Python submissions.
+  * Memory Usage: 41.9 MB, less than 50.8% of Python submissions.
