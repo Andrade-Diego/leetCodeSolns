@@ -70,3 +70,9 @@ Use DFS and recursion to iterate through tree, keep track of the lowerLimit and 
 Use binary search to check each row for the target. Runtime then is O(m*logn)
   * Runtime: 2920 ms, faster than 13.9% of Python submissions.
   * Memory Usage: 41.9 MB, less than 50.8% of Python submissions.
+
+## Transpose Matrix
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/TransposeMatrix.py)**
+Used a list comprehension for a quick, one-line solution.
+  * Runtime: 60 ms, faster than 98.88% of Python submissions.
+  * Memory Usage: 14.8 MB, less than 73.25% of Python submissions.
