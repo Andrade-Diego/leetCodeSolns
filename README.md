@@ -76,3 +76,9 @@ Use binary search to check each row for the target. Runtime then is O(m*logn)
 Used a list comprehension for a quick, one-line solution.
   * Runtime: 60 ms, faster than 98.88% of Python submissions.
   * Memory Usage: 14.8 MB, less than 73.25% of Python submissions.
+
+## Binary Tree Level Order Traversal
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/BTLevelOrderTraversal.py)**
+Used a list comprehension for a quick, one-line solution.
+  * Runtime: 24 ms, faster than 98.92% of Python submissions.
+  * Memory Usage: 15.3 MB, less than 6.84% of Python submissions.
