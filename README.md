@@ -79,12 +79,18 @@ Used a list comprehension for a quick, one-line solution.
 
 ## Binary Tree Level Order Traversal
 * **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/BTLevelOrderTraversal.py)**
-Used a list comprehension for a quick, one-line solution.
+Recursive solution for level order tree traversal.
   * Runtime: 24 ms, faster than 98.92% of Python submissions.
   * Memory Usage: 15.3 MB, less than 6.84% of Python submissions.
 
 ## Single Number
 * **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/singleNumber.py)**
-Used a list comprehension for a quick, one-line solution.
+
   * Runtime: 132 ms, faster than 65.57% of Python submissions.
   * Memory Usage: 16.5 MB, less than 81.41% of Python submissions.
+
+## Remove Element
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/RemoveElement.py)**
+
+  * Runtime: 24 ms, faster than 98.44% of Python submissions.
+  * Memory Usage: 14 MB, less than 98.6% of Python submissions.
