@@ -1,10 +1,12 @@
 # Solutions to LeetCode Problems
+
 ### Versions
 Language | Version
 ------------ | -------------
 C++ | C++14
 Python | Python3
 JavaScipt | Node.js v15.3.0
+	
 ## twoSum
 Iterate through each element in list. Use a hash table to store difference between the current number and the target and map it to the current index. If an observed value is in the hash table, use the index of that observed value and the index it's mapped to in the table to generate the result.
 * **[C++](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/twoSum.cpp)**
@@ -94,3 +96,4 @@ Recursive solution for level order tree traversal.
 
   * Runtime: 24 ms, faster than 98.44% of Python submissions.
   * Memory Usage: 14 MB, less than 98.6% of Python submissions.
+test
