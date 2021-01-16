@@ -96,4 +96,9 @@ Recursive solution for level order tree traversal.
 
   * Runtime: 24 ms, faster than 98.44% of Python submissions.
   * Memory Usage: 14 MB, less than 98.6% of Python submissions.
-test
+
+## Merge Two Sorted Lists
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/MergeTwoSortedLists.py)**
+
+  * Runtime: 32 ms, faster than 91.62% of Python submissions.
+  * Memory Usage: 14.1 MB, less than 95.46% of Python submissions.
