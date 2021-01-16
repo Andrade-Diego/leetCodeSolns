@@ -1,4 +1,4 @@
-def levelOrder(self, root: TreeNode) -> List[List[int]]:
+def levelOrder(TreeNode):
     arr = []
     if root == None:
         return []
