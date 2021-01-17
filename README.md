@@ -6,7 +6,7 @@ Language | Version
 C++ | C++14
 Python | Python3
 JavaScipt | Node.js v15.3.0
-	
+
 ## twoSum
 Iterate through each element in list. Use a hash table to store difference between the current number and the target and map it to the current index. If an observed value is in the hash table, use the index of that observed value and the index it's mapped to in the table to generate the result.
 * **[C++](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/twoSum.cpp)**
@@ -39,7 +39,7 @@ Recursive solution using preorder tree traversal
 
 ## Median of Two Sorted Arrays
 * **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/FindMediansSortedArrays.py)**
-Used a pointer for each list, the smaller value goes into the new "merge" list. In order to achieve **O(log(n+m))** time, the entirety of each list is not used, only the first half + 1 of the total number of values needs to be used. 
+Used a pointer for each list, the smaller value goes into the new "merge" list. In order to achieve **O(log(n+m))** time, the entirety of each list is not used, only the first half + 1 of the total number of values needs to be used.
   * Runtime: 88 ms, faster than 79.72% of Python submissions.
   * Memory Usage: 14.4 MB, less than 62.34% of Python submissions.
 
@@ -102,3 +102,9 @@ Recursive solution for level order tree traversal.
 
   * Runtime: 32 ms, faster than 91.62% of Python submissions.
   * Memory Usage: 14.1 MB, less than 95.46% of Python submissions.
+
+## Length of Last Word
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/LengthOfLastWord.py)**
+Solution from scratch, not using rstrip() or split().
+  * Runtime: 30 ms, faster than 81.62% of Python submissions.
+  * Memory Usage: 14.2 MB, less than 66.42% of Python submissions.
