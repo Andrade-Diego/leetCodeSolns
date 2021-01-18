@@ -108,3 +108,9 @@ Recursive solution for level order tree traversal.
 Solution from scratch, not using rstrip() or split().
   * Runtime: 30 ms, faster than 81.62% of Python submissions.
   * Memory Usage: 14.2 MB, less than 66.42% of Python submissions.
+
+## Plus One
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/PlusOne.py)**
+
+  * Runtime: 28 ms, faster than 88.89% of Python submissions.
+  * Memory Usage: 14.2 MB, less than 75.49% of Python submissions.
