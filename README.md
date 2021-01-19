@@ -114,3 +114,9 @@ Solution from scratch, not using rstrip() or split().
 
   * Runtime: 28 ms, faster than 88.89% of Python submissions.
   * Memory Usage: 14.2 MB, less than 75.49% of Python submissions.
+
+## Two Sum ii  - Input array is sorted
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/TwoSumII.py)**
+
+  * Runtime: 56 ms, faster than 95.62% of Python submissions.
+  * Memory Usage: 14.7 MB, less than 32.18% of Python submissions.
