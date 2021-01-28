@@ -120,3 +120,9 @@ Solution from scratch, not using rstrip() or split().
 
   * Runtime: 56 ms, faster than 95.62% of Python submissions.
   * Memory Usage: 14.7 MB, less than 32.18% of Python submissions.
+
+## Add Binary
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/addBinary.py)**
+
+  * Runtime: 24 ms, faster than 97.93% of Python submissions.
+  * Memory Usage: 14.7 MB, less than 82.35% of Python submissions.
