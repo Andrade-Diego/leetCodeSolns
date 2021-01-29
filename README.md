@@ -132,3 +132,9 @@ Solution from scratch, not using rstrip() or split().
 
   * Runtime: 64 ms, faster than 90.61% of Python submissions.
   * Memory Usage: 16.1 MB, less than 87.85% of Python submissions.
+
+## Flood Fill
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/rangeAdditionII.py)**
+
+  * Runtime: 72 ms, faster than 84.47% of Python submissions.
+  * Memory Usage: 14.4 MB, less than 76.65% of Python submissions.
