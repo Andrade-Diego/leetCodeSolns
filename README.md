@@ -144,3 +144,9 @@ Solution from scratch, not using rstrip() or split().
 
   * Runtime: 148 ms, faster than 97.70% of Python submissions.
   * Memory Usage: 31.9 MB, less than 5.56% of Python submissions.
+
+## Sort Array by Parity
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/SortArrayByParity.py)**
+Used deque from collections for faster prepending to list.
+  * Runtime: 68 ms, faster than 98.81% of Python submissions.
+  * Memory Usage: 15 MB, less than 82.26% of Python submissions.
