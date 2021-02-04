@@ -151,8 +151,13 @@ Used deque from collections for faster prepending to list.
   * Runtime: 68 ms, faster than 98.81% of Python submissions.
   * Memory Usage: 15 MB, less than 82.26% of Python submissions.
 
-## Sort Array by Parity
+## Self Dividing Numbers
 * **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/SelfDividingNumbers.py)**
-Used deque from collections for faster prepending to list.
   * Runtime: 40 ms, faster than 94.19% of Python submissions.
   * Memory Usage: 14.1 MB, less than 84.06% of Python submissions.
+
+## Valid Palindrome
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/ValidPalindrome.py)**
+Pythonic two line solution.
+  * Runtime: 40 ms, faster than 89.60% of Python submissions.
+  * Memory Usage: 20 MB, less than 8.16% of Python submissions.
