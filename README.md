@@ -161,3 +161,9 @@ Used deque from collections for faster prepending to list.
 Pythonic two line solution.
   * Runtime: 40 ms, faster than 89.60% of Python submissions.
   * Memory Usage: 20 MB, less than 8.16% of Python submissions.
+
+## Min Cost Climbing Stairs
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/MinCostClimbingStairs.py)**
+Dynamic programming solution.
+  * Runtime: 52 ms, faster than 91.16% of Python submissions.
+  * Memory Usage: 14.3 MB, less than 90.81% of Python submissions.  
