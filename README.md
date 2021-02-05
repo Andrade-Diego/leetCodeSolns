@@ -5,7 +5,7 @@ Language | Version
 ------------ | -------------
 C++ | C++14
 Python | Python3
-JavaScipt | Node.js v15.3.0
+JavaScript | Node.js v15.3.0
 
 ## twoSum
 Iterate through each element in list. Use a hash table to store difference between the current number and the target and map it to the current index. If an observed value is in the hash table, use the index of that observed value and the index it's mapped to in the table to generate the result.
@@ -167,3 +167,9 @@ Pythonic two line solution.
 Dynamic programming solution.
   * Runtime: 52 ms, faster than 91.16% of Python submissions.
   * Memory Usage: 14.3 MB, less than 90.81% of Python submissions.  
+
+## Find the Duplicate Number
+* **[JavaScript](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/FindTheDuplicateNumber.js)**
+Dynamic programming solution.
+  * Runtime: 72 ms, faster than 98.03% of JavaScript submissions.
+  * Memory Usage: 40.2 MB, less than 39.28% of JavaScript submissions.  
