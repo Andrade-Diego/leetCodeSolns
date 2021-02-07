@@ -179,3 +179,10 @@ Dynamic programming solution.
 Dynamic programming solution.
   * Runtime: 72 ms, faster than 97.1% of JavaScript submissions.
   * Memory Usage: 40.4 MB, less than 58.30% of JavaScript submissions.
+  ## Reverse Words in a String
+
+## MajorityElement
+* **[JavaScript](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/MajorityElement.js)**
+Dynamic programming solution.
+  * Runtime: 80 ms, faster than 91.22% of JavaScript submissions.
+  * Memory Usage: 40.5 MB, less than 96.16% of JavaScript submissions.
