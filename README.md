@@ -170,19 +170,22 @@ Dynamic programming solution.
 
 ## Find the Duplicate Number
 * **[JavaScript](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/FindTheDuplicateNumber.js)**
-Dynamic programming solution.
   * Runtime: 72 ms, faster than 98.03% of JavaScript submissions.
   * Memory Usage: 40.2 MB, less than 39.28% of JavaScript submissions.
 
 ## Reverse Words in a String
 * **[JavaScript](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/ReverseWordsInString.js)**
-Dynamic programming solution.
   * Runtime: 72 ms, faster than 97.1% of JavaScript submissions.
   * Memory Usage: 40.4 MB, less than 58.30% of JavaScript submissions.
   ## Reverse Words in a String
 
 ## MajorityElement
 * **[JavaScript](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/MajorityElement.js)**
-Dynamic programming solution.
   * Runtime: 80 ms, faster than 91.22% of JavaScript submissions.
   * Memory Usage: 40.5 MB, less than 96.16% of JavaScript submissions.
+
+## Find Minimum in Rotated Sorted Array
+* **[JavaScript](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/FindMinInRotatedArray.js)**
+Binary search solution
+  * Runtime: 76 ms, faster than 85.52% of JavaScript submissions.
+  * Memory Usage: 38.6 MB, less than 62.61% of JavaScript submissions.
