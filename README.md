@@ -189,3 +189,8 @@ Dynamic programming solution.
 Binary search solution
   * Runtime: 76 ms, faster than 85.52% of JavaScript submissions.
   * Memory Usage: 38.6 MB, less than 62.61% of JavaScript submissions.
+
+## Find Peak Element
+* **[JavaScript](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/FindPeakElement.js)**
+  * Runtime: 72 ms, faster than 93.99% of JavaScript submissions.
+  * Memory Usage: 38.5 MB, less than 84.37% of JavaScript submissions.
