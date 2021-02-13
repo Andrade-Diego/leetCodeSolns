@@ -194,3 +194,8 @@ Binary search solution
 * **[JavaScript](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/FindPeakElement.js)**
   * Runtime: 72 ms, faster than 93.99% of JavaScript submissions.
   * Memory Usage: 38.5 MB, less than 84.37% of JavaScript submissions.
+
+## Permutations
+* **[JavaScript](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/Permutations.js)**
+  * Runtime: 84 ms, faster than 98.90% of JavaScript submissions.
+  * Memory Usage: 41.7 MB, less than 53.25% of JavaScript submissions.
