@@ -199,3 +199,8 @@ Binary search solution
 * **[JavaScript](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/Permutations.js)**
   * Runtime: 84 ms, faster than 98.90% of JavaScript submissions.
   * Memory Usage: 41.7 MB, less than 53.25% of JavaScript submissions.
+
+## Remove Nth Node From End of List
+* **[JavaScript](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/Permutations.js)** Two Pointer technique solution.
+  * Runtime: 76 ms, faster than 95.57% of JavaScript submissions.
+  * Memory Usage: 40 MB, less than 78.79% of JavaScript submissions.
