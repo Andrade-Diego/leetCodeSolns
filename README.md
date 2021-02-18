@@ -204,3 +204,8 @@ Binary search solution
 * **[JavaScript](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/Permutations.js)** Two Pointer technique solution.
   * Runtime: 76 ms, faster than 95.57% of JavaScript submissions.
   * Memory Usage: 40 MB, less than 78.79% of JavaScript submissions.
+
+## Reverse Linked List
+* **[JavaScript](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/Permutations.js)**
+  * Runtime: 80 ms, faster than 87.35% of JavaScript submissions.
+  * Memory Usage: 40.2 MB, less than 86.19% of JavaScript submissions.
