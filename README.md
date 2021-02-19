@@ -209,3 +209,8 @@ Binary search solution
 * **[JavaScript](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/ReverseLinkedList.js)**
   * Runtime: 80 ms, faster than 87.35% of JavaScript submissions.
   * Memory Usage: 40.2 MB, less than 86.19% of JavaScript submissions.
+
+## Remove Linked List Elements
+* **[JavaScript](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/REmoveLinkedListElements.js)**
+  * Runtime: 88 ms, faster than 97.03% of JavaScript submissions.
+  * Memory Usage: 43.1 MB, less than 89.92% of JavaScript submissions.
