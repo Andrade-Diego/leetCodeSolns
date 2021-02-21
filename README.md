@@ -214,3 +214,18 @@ Binary search solution
 * **[JavaScript](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/REmoveLinkedListElements.js)**
   * Runtime: 88 ms, faster than 97.03% of JavaScript submissions.
   * Memory Usage: 43.1 MB, less than 89.92% of JavaScript submissions.
+
+## Binary Tree Preorder Traversal
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/BinaryTreePreorderTraversal.py)**
+  * Runtime: 24 ms, faster than 96.07% of Python submissions.
+  * Memory Usage: 14.1 MB, less than 77.94% of Python submissions.
+
+## Binary Tree Inorder Traversal
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/BinaryTreeInorderTraversal.py)**
+  * Runtime: 24 ms, faster than 96.24% of Python submissions.
+  * Memory Usage: 14.2 MB, less than 78% of Python submissions.
+
+## Binary Tree Postorder Traversal
+* **[Python](https://github.com/Andrade-Diego/leetCodeSolns/blob/master/BinaryTreePostorderTraversal.py)**
+  * Runtime: 28 ms, faster than 86.23% of Python submissions.
+  * Memory Usage: 14 MB, less than 91.99% of Python submissions.
